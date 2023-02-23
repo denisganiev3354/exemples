@@ -27,7 +27,4 @@ while ( distance > 10 )
 }
 
 
-Console.Write("Собака прошла ");
-Console.Write(count);
-Console.WriteLine(" раз(а). ");
-    
+Console.WriteLine ( $"Собака прошла {count}  раз(а).");
